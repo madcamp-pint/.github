@@ -50,5 +50,5 @@
 <br />
 
 ## 🔗 Demo & Design Resources
-- ⚙️ <a href="" target="_blank">APK file</a>
+- 📂 <a href="" target="_blank">APK file</a>
 - 🎨 <a href="https://www.figma.com/design/fza5XcTP5U7xNqCUO4u8He/2025S-Madcamp-Week-2---title?node-id=0-1&t=IfuX4D8iWodrpdcD-1" target="_blank">Figma</a>
