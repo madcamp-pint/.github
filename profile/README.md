@@ -8,12 +8,14 @@
     <tr>
       <td align="center" width="200">
         <a href="https://github.com/lyeonj">
-          <img width="120" height="120" alt="Image" src="https://github.com/user-attachments/assets/20bb526c-e67b-4704-9182-7f5ed84c194e" />
-          <br />
+            <img width="120" height="120" alt="Image" src="https://github.com/user-attachments/assets/20bb526c-e67b-4704-9182-7f5ed84c194e" />
+            <br />
         </a>
       </td>
       <td align="center" width="200">
         <a href="https://github.com/Park-Jimin-KAIST">
+            <img width="120" height="120" alt="Image" src="https://github.com/user-attachments/assets/20771cb6-a9f0-4648-87ac-f9e3268767e1" />
+            <br />
         </a>
       </td>
     </tr>
@@ -77,11 +79,36 @@
 <br />
 
 ## 🌐 Web Preview
+**👤 Kakao Login**
+<table>
+    <tr>
+        <td>
+            <img width="400" height="255" alt="Image" src="https://github.com/user-attachments/assets/fb565c5e-02ec-4009-a44b-2c872483e106" />
+        </td>
+    </tr>
+</table>
+
+<br/>
+
+**🏠 Main Page**
+<table>
+    <tr>
+        <td>
+            <img width="400" height="255" alt="Image" src="https://github.com/user-attachments/assets/961d4b65-c59a-4154-963e-cb371f6e8c3e" />
+        </td>
+    </tr>
+</table>
+
+<br/>
+
 **📍 Place PINT**
 <table>
     <tr>
         <td>
-            image
+            <img width="400" height="258" alt="Image" src="https://github.com/user-attachments/assets/36dcfd0a-0d2c-4d5f-a362-584a0edf9d47" />
+        </td>
+        <td>
+            <img width="400" height="258" alt="Image" src="https://github.com/user-attachments/assets/e371f57b-3de1-45b6-aa6b-10caca0b9900" />
         </td>
     </tr>
 </table>
@@ -92,7 +119,10 @@
 <table>
     <tr>
         <td>
-            image
+            <img width="400" height="255" alt="Image" src="https://github.com/user-attachments/assets/d5b0c976-9843-46fd-a553-443348649b5f" />
+        </td>
+        <td>
+            <img width="400" height="255" alt="Image" src="https://github.com/user-attachments/assets/a397af3c-4926-4553-a491-91cf20627d5c" />
         </td>
     </tr>
 </table>
