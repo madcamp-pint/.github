@@ -45,9 +45,11 @@
 <h3>Pint</h3>
 ㄴ 정해진 장소에서 / 정해진 시간에 열리는 메시지
 
-<br/><br/>
+<br/>
+<br/>
 
 - 📍 **Place PINT** : 장소 기반 PINT, 지정된 위치에 접근해야 열리는 캡슐
+  
 - ⌛ **Time PINT** : 시간 기반 PINT, 지정된 시간이 되어야 열리는 캡슐
 
 <br/>
@@ -62,11 +64,11 @@
   </thead>
   <tbody>
     <tr>
-      <td>
+      <td td align="center" width="260">
         <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=black"/>
         <img src="https://img.shields.io/badge/Styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
       </td>
-      <td>
+      <td td align="center" width="260">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
@@ -75,14 +77,13 @@
   </tbody>
 </table>
 
-
 <br />
 
 ## 🌐 Web Preview
 **👤 Kakao Login**
 <table>
     <tr>
-        <td>
+        <td width="400">
             <img width="400" height="255" alt="Image" src="https://github.com/user-attachments/assets/fb565c5e-02ec-4009-a44b-2c872483e106" />
         </td>
     </tr>
@@ -93,7 +94,7 @@
 **🏠 Main Page**
 <table>
     <tr>
-        <td>
+        <td width="400">
             <img width="400" height="255" alt="Image" src="https://github.com/user-attachments/assets/961d4b65-c59a-4154-963e-cb371f6e8c3e" />
         </td>
     </tr>
@@ -104,10 +105,10 @@
 **📍 Place PINT**
 <table>
     <tr>
-        <td>
+        <td width="400">
             <img width="400" height="258" alt="Image" src="https://github.com/user-attachments/assets/36dcfd0a-0d2c-4d5f-a362-584a0edf9d47" />
         </td>
-        <td>
+        <td width="400">
             <img width="400" height="258" alt="Image" src="https://github.com/user-attachments/assets/e371f57b-3de1-45b6-aa6b-10caca0b9900" />
         </td>
     </tr>
@@ -118,10 +119,10 @@
 **⌛ Time PINT**
 <table>
     <tr>
-        <td>
+        <td width="400">
             <img width="400" height="255" alt="Image" src="https://github.com/user-attachments/assets/d5b0c976-9843-46fd-a553-443348649b5f" />
         </td>
-        <td>
+        <td width="400">
             <img width="400" height="255" alt="Image" src="https://github.com/user-attachments/assets/a397af3c-4926-4553-a491-91cf20627d5c" />
         </td>
     </tr>
@@ -130,4 +131,4 @@
 <br />
 
 ## 🔗 Design Resources
-- 🎨 <a href="https://www.figma.com/design/fza5XcTP5U7xNqCUO4u8He/2025S-Madcamp-Week-2---title?node-id=0-1&t=IfuX4D8iWodrpdcD-1" target="_blank">Figma</a>
+🎨 <a href="https://www.figma.com/design/fza5XcTP5U7xNqCUO4u8He/2025S-Madcamp-Week-2---title?node-id=0-1&t=IfuX4D8iWodrpdcD-1" target="_blank">Figma</a>
